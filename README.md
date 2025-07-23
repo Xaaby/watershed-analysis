@@ -1,12 +1,9 @@
-# watershed-analysis
-A QGIS project analyzing the elevation and drainage of a watershed in Nashik, India.
-
-# Elevation and Watershed Analysis in Nashik District, India
+# A QGIS project analyzing the elevation and drainage of a watershed in Nashik, India.
 
 ## Map Preview
 
 ![Final Watershed Map](image_94a6e5.jpg)
-*(Note: You will upload your map image and name it 'image_94a6e5.jpg' or update the link here)*
+
 
 ## Project Overview
 
